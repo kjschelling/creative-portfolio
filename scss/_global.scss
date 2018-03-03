@@ -71,6 +71,7 @@ section {
 img::selection {
   color: $white;
   background: transparent;
+
 }
 
 img::-moz-selection {
@@ -83,4 +84,9 @@ body {
 }
 .main-name {
   font-size: 3rem;
+}
+
+.img-profile {
+  height: 150px;
+  width: 150px;
 }
